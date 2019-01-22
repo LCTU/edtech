@@ -12,17 +12,17 @@
 
 学生演示课文内容：
 
-![](https://lctu.github.io/edtech/demos/sfl/学生演示1.png){:height="500"}
+![](https://lctu.github.io/edtech/demos/sfl/学生演示1.png){:width="500"}
 
-![](https://lctu.github.io/edtech/demos/sfl/学生演示2.png){:height="500"}
+![](https://lctu.github.io/edtech/demos/sfl/学生演示2.png){:width="500"}
 
 ### 视频数据再利用：课堂引用
 
 教师引用学生演示进行教学：
 
-![](https://lctu.github.io/edtech/demos/sfl/课堂引用1.png){:height="500"}
+![](https://lctu.github.io/edtech/demos/sfl/课堂引用1.png){:width="500"}
 
-![](https://lctu.github.io/edtech/demos/sfl/课堂引用2.png){:height="500"}
+![](https://lctu.github.io/edtech/demos/sfl/课堂引用2.png){:width="500"}
 
 ### 附：视频数据样本
 
