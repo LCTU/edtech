@@ -132,7 +132,7 @@ class: center, middle
 ```
 ]
 + 学术英语应用场景初探 [>>](https://lctu.github.io/edtech/docs/eap)
-+ 学生需求分析示例 [>>](https://lctu.github.io/edtech/docs/)
++ 学生需求分析——以英语读写任务为例 [>>](https://lctu.github.io/edtech/docs/requirements_students)
 
 ---
 ## 语言中心教学辅助平台：.smaller[教师需求初探]
@@ -206,7 +206,7 @@ class: center, middle
   + 对象：1）教师；2）学生
 
   + 交互平台：1）
-  
+
 ]
 
 ---
