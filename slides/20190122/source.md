@@ -175,7 +175,7 @@ class: center, middle
 
 语言知识库应用示例：
 
-+ 基于《现代汉语虚词用法知识库》的对外汉语教学应用 [>>](https://lctu.github.io/edtech/demo/ctext/index.html)
++ 基于《现代汉语虚词用法知识库》的对外汉语教学应用 [>>](https://lctu.github.io/edtech/demos/ctext/index.html)
 
 + 基于《汉语概念词典》的对外汉语教学应用
 

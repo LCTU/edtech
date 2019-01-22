@@ -28,8 +28,8 @@
 
 ### 附：流利说APP日常交流类产品演示
 
-+ [听力练习](https://lctu.github.io/edtech/demo/liulishuo/listening.mp4)
++ [听力练习](https://lctu.github.io/edtech/demos/liulishuo/listening.mp4)
 
-+ [语音及对话练习](https://lctu.github.io/edtech/demo/liulishuo/pronunciation_conversation.mp4)
++ [语音及对话练习](https://lctu.github.io/edtech/demos/liulishuo/pronunciation_conversation.mp4)
 
 致谢：流利说产品演示由外文系郑婳同学提供，特此感谢！
