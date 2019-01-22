@@ -225,7 +225,7 @@ class: center, middle
 
 .right-column-1[
 
-+ 面向具体课程的个性化教育技术支持
++ 面向具体课程的个性化教育技术支持 (>>)(images/courses.png)
 
 + 学堂在线公共外语和对外汉语慕课建设
 ]
