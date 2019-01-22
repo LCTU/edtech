@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to the Language Centre of Tsinghua University
 
-You can use the [editor on GitHub](https://github.com/LCTU/edtech/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Document List
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ [二外教学资源建设与利用示例](docs/sfl)
 
-### Markdown
++ [学生需求分析——以英语读写任务为例](docs/requirements_students)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ [Scenarios of EAP Application](docs/eap)
 
-```markdown
-Syntax highlighted code block
++ [基于教育技术的大学公共外语自适应学习方案（试点方案）](docs/adaptive_learning)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LCTU/edtech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ [硬件场所初步规划](docs/facilities)
