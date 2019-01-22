@@ -1,0 +1,77 @@
+/* Local CSS */
+
+/* Header */
+#header{
+	min-height:45px;
+	padding-top:6px;
+	padding-bottom:6px;
+	background-color: black;
+}
+
+/* Title */
+#title{
+	min-height: 40px;
+	padding-top:10px;
+	background-color:rgb(16,100,112);
+	color:white;
+	font-size: 1.4em;
+}
+
+/* Navigation */
+.top-bar {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+.top-bar-section ul li > a{
+	font-size: 0.95em;
+}
+
+/* Content */
+#content{
+	min-height: 500px;
+	border: 1px solid rgb(16,100,112);
+	padding-top:20px;
+}
+.cnq{
+	font-family: font-family: Tahoma, Arial, Helvetica,"Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", '宋体', 'SimSun', 'STXihei', "华文细黑",sans-serif;	
+}
+mark{
+	background-color: white;
+	color:rgb(16,100,112);
+	font-weight: bold;
+}  
+.ill{
+	margin-top:10px;
+	margin-left:10px;
+	margin-bottom: 10px;
+}
+.accordion dd > a{
+	background-color: rgb(163,193,173);	
+}  
+.accordion dd > a:hover{
+	background-color: rgb(16,100,112);	
+} 
+.accordion dd.active a{
+	background-color: rgb(163,193,173);
+} 
+.accordion dd.active a:hover{
+	background-color: rgb(16,100,112);
+} 
+#exref1, #exref2{
+	background-color: white;
+}
+#rveal{
+	cursor:pointer;
+	color:rgb(142,37,141);
+}
+
+/* Footer */
+#footer{
+	min-height:28px;
+	padding-top:5px;
+	background-color: black;
+	color: white;
+	font-size: 0.9em;
+}
+   	
+

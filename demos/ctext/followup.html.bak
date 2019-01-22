@@ -1,0 +1,182 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reading Chinese - Chinese Auspicious Patterns</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" href="css/local.css" />    
+    <script src="js/vendor/modernizr.js"></script>
+    <style>
+        .kword {color:orange;}
+        .equote {font-style:italic;}
+    </style>
+    </head>
+  <body id="prep">
+ 	<div class="row">
+		<div id="header" class="large-12 columns">
+			<img src="img/main-logo-small.png" alt="University logo" />
+		</div>
+	</div>
+	<div class="row">
+		<div id="title" class="large-12 columns">Reading Chinese: <i>Chinese Auspicious Patterns</i></div>
+	</div>
+	<div class="row">
+		<div id="menu" class="large-12 columns">
+			<nav class="top-bar" data-topbar>
+				<ul class="title-area">
+					<li class="name">
+						<h1><a href="index.html">Home</a></h1>
+					</li>
+				</ul>
+				<section class="top-bar-section">
+					<ul class="left">
+						<li><a href="prep.html">Preparation</a></li>
+						<li><a href="text.html">Text</a></li>
+						<li><a href="#">Follow up</a></li>
+					</ul>
+				</section>
+			</nav>
+		</div>
+	</div>
+	<div class="row">
+		<div id="content" class="large-12 columns">			
+			<h1>Follow up</h1>
+			<p>Pick any of the topic below to look at some features of the text in more details.
+			</p>
+			<dl class="accordion" data-accordion>
+				<dd>
+					<a href="#panel1">随</a>
+					<div id="panel1" class="content">
+                        <p><span class="kword">随</span> by itself means <span class="equote">to follow</span>, as in:<br>
+                        <span class="hz">请<span class="kword">随</span>我来。</span><br>
+                        <span class="equote">Please come with me.</span><br>
+                        or <span class="equote">as soon as</span>:
+                        <span class="hz">这故事<span class="kword">随</span>主人公死亡而告终。</span><br>
+                        <span class="equote">As soon as the hero died, the story came to an end.</span></p> 
+                        <p>It is also used in a metaphorical sense as in:<br>
+                        <span class="hz">成本是<span class="kword">随</span>质量的提高而提高的。</span><br> 
+                        <span class="equote">Cost increases with quality.</span><br>
+                        and:<br>
+                        <span class="hz">我<span class="kword">随</span>函附上合同一式两份。</span><br>
+                        <span class="equote">I am enclosing a copy of the contract.</span></p>
+                        <p><span class="kword">随</span> is frequently used as part of a number of common conjunctions and adverbs.</p>
+                        <p><span class="kword">随着</span> means <span class="equote">following, in the wake of</span>. It often appears at the begining of a sentence and the phrase frequently ends with a comma.:<br>   
+                        <span class="hz"><span class="kword">随着</span>中国经济迅速发展，...</span><br>
+                        <span class="equote">Following China's rapid economic development</span><br>
+                        <span class="hz">蔬菜价<span class="kword">随着</span>天气变化而波动。</span><br> 
+                        <span class="equote">The price of vegetables changes with the weather</span></p>
+                        <p><span class="kword">随便</span> is mainly used as an adverb meaning <span class="equote">to do as one pleases</span>，or <span class="equote">to be casual about something</span>:
+                        <span class="hz"><span class="kword">随便</span>什么时候，只要你愿意，你都可以来当我的公众关系部部长。</span><br>
+                        <span class="equote">You can take over the PR department at any time that suits you, as long as you are willing.</span><br>
+                        <span class="hz">他把腿<span class="kword">随便</span>地搁在椅子上。</span><br>
+                        <span class="equote">He casually draped his leg over the chair.</span><br>
+                        <span class="hz">早上好。请<span class="kword">随便</span>些。</span><br>
+                        <span class="equote">Good morning, make your self comfortable.</span></p>
+                        <p><span class="kword">随意</span> similarly means <span class="equote">to do as one pleases, to feel free to do something</span>.
+                        <span class="hz">请<span class="kword">随意</span>到处看看。</span><br>
+                        <span class="equote">Please feel free to look around.</span><br>
+                        <span class="hz">你可<span class="kword">随意</span>借用我的铅笔。</span><br>
+                        <span class="equote">You are welcome to use my pencil.</span></p> 
+                        <p><span class="kword">随时</span>  means <span class="equote">to do something at any time</span>, or <span class="equote">at a  convenient time</span>.
+                        <span class="hz">我可以<span class="kword">随时</span>.到这里来。</span><br>
+                        <span class="equote">I can come here whenever it is convenient.</span><br>
+                        <span class="hz">你不必客气可<span class="kword">随时</span>用我的汽车。</span><br> 
+                        <span class="equote">You can use my car at any time.</span><br>
+                        <span class="hz">我们的小宝宝<span class="kword">随时</span>都可能出生。 </span><br>
+                        <span class="equote">Our baby could be born at any time.</span></p>
+                        <p><span class="kword">随即</span>  means <span class="equote">immediately, soon after</span>.<br>
+                        <span class="hz">他发出一声叫喊,<span class="kword">随即</span>倒在地板上。</span><br>
+                        <span class="equote">He cried out and fell to the floor.</span><br>
+                        <span class="hz">发动机发出一阵轧轧声, <span class="kword">随即</span>停了下来</span><br>。
+                        <span class="equote">The engine made a clanking sound, then it stopped altogether.</span></p>
+                        <p><span class="kword">随后</span>  also means <span class="equote">soon after</span>.
+                        <span class="hz">你先走, 我们<span class="kword">随后</span>就到。</span><br>
+                        <span class="equote">You go first, we will come immediately afterwards.</span><br>
+                        <span class="hz">我听到脚步声，<span class="kword">随后</span>是敲门的声音。</span><br>
+                        <span class="equote">I heard footsteps and then a knock on the door.</span></p>
+					</div>
+					<a href="#panel2">据</a>
+					<div id="panel2" class="content">
+                        <p><span class="kword">据</span> normally provides the source of information for what that follows. It often appears at the
+                        beginning of a sentence. The phrase it introduces frequently ends with a comma.<br>
+                        <span class="hz"><span class="kword">据</span>非官方统计显示，人数已超过4千万。</span><br> 
+                        <span class="equote">As claimed by an unofficial statistics, the number of people already exceeds 40 Million.</span><br> 
+                        <span class="hz"><span class="kword">据</span>我所知，他将外出三个月。</span><br> 
+                        <span class="equote">From what I have heard he will be away for three months.</span><br>
+                        <span class="hz"><span class="kword">据</span>半官方消息。</span><br>
+                        <span class="equote">According to semi-official information..</span><br>
+                        <span class="hz"><span class="kword">据</span>记录，这位老人出生于一八六零年。</span><br>
+                        <span class="equote">According to the records, the old man was born in 1860 </span></p>                  
+                        <p><span class="kword">根据</span> is similar to <span class="kword">据</span>.<br>
+                        <span class="hz">他<span class="kword">根据</span>这个理论作出了结论。</span><br>
+                        <span class="equote">Following this theory he came to a conclusion.</span><br>
+                        <span class="hz">警方<span class="kword">根据</span>密报逮捕了毒品走私者。</span><br> 
+                        <span class="equote">According to the secret report, the police arrested the drug smuggler.</span><br>
+                        <span class="hz"><span class="kword">根据</span>最新消息 ...</span><br>
+                        <span class="equote">According to the latest news... </span></p>                  
+                        <p><span class="kword">据悉</span> has the more specific meaning of <span class="equote">it has been reported</span> without naming the source.<br>
+                        <span class="hz"><span class="kword">据悉</span>, 这个案子已经由派出所移交给了分局。</span><br>
+                        <span class="equote">It has been reported that the case was passed from the local police station to the police department.</span>
+                        <span class="hz"><span class="kword">据悉</span>，他将于明天辞职 。</span><br>     
+                        <span class="equote">It has been reported that he will resign tomorrow.</span></p>           
+                        <p><span class="kword">据说</span> can introduce a tentative note, indicating that the speaker is not sure of the information:<br>
+                        <span class="hz"><span class="kword">据说</span>他在数学方面很有才能。</span><br> 
+                        <span class="equote">It is said, that he is a very capable mathematician.</span><br> 
+                        <span class="hz"><span class="kword">据说</span>他很有钱。</span><br> 
+                        <span class="equote">He is reportedly very rich.</span><br> 
+                        <span class="hz"><span class="kword">据说</span>他精通好几门外语。</span><br> 
+                        <span class="equote">He is said to be very good at foreign languages. </span></p>     					
+  					</div>
+					<a href="#panel3">为...了</a>
+					<div id="panel3" class="content">
+                        <p><span class="kword">为了</span> is used to specify the purpose or beneficiary of an action:<br>
+                        <span class="hz"><span class="kword">为了</span>推广汉语及汉语文化话...</span><br>
+                        <span class="equote">In order to promote Chinese language and culture...</span><br> 
+                        <span class="hz"><span class="kword">为了</span>出国，他准备争取奖学金。</span><br> 
+                        <span class="equote">In order to go abroad, he prepared to compete for educational grants.</span><br> 
+                        <span class="hz">吃是<span class="kword">为了</span>活，不要活着为了吃。</span><br> 
+                        <span class="equote">Eat do live, don't live to eat.</span><br> 
+                        <span class="hz"><span class="kword">为了</span>及时赶到他跑得很快。</span><br> 
+                        <span class="equote">In order to get there on time he ran.</span><br> 
+                        <span class="hz"><span class="kword">为了</span>找到需要的信息，用户必须知道想要的是什么信息。</span><br>   
+                        <span class="equote">In order to find the information, the user must know what he is looking for.</span></p>                 						
+					</div>
+					<a href="#panel4">在...方面</a>
+					<div id="panel4" class="content">
+                        <p><span class="kword">在...方面</span> states the respect in which something is stated or claimed:<br>	
+                        <span class="hz"><span class="kword">在</span>汉语教学<span class="kword">方面</span>，孔子学院也是最正规的主要渠道。</span><br> 
+                        <span class="equote">As far as learning Chinese is concerned, the Confucius institutes are the most important and authoritative channels of communication.</span><br>                  
+                        <span class="hz">他<span class="kword">在</span>学习中文<span class="kword">方面</span>进步很多。</span><br> 
+                        <span class="equote">He has made good progress with his Chinese studies.</span><br> 
+                        <span class="hz"><span class="kword">在方面</span>英国与中国一样。</span><br>  
+                        <span class="equote">In this respect China and Britain are the same.</span><br> 
+                        <span class="hz">难度表现<span class="kword">在</span>许多<span class="kword">方面</span>。</span><br> 
+                        <span class="equote">Difficulties appeared in various respects. </span><br> 
+                        <span class="hz">在某些<span class="kword">方面</span>他简直是匹笨驴。</span><br> 
+                        <span class="equote">In several respects he is simple an ass.</span></p>							     					
+					</div>					
+				</dd>
+			</dl>
+		</div>
+	</div>
+	<div class="row">
+		<div id="footer" class="large-12 columns">&copy;2014 University of Cambridge, Language Centre</div>
+	</div>
+	
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+      $(document).ready(function(){
+	     $("#panel3 table").hide(); 
+	     $('#rveal').click(function(){
+		 	$("#panel3 table").show(); 	    
+		 });
+      });
+      
+    </script>
+  </body>
+</html>
+
+
