@@ -1,12 +1,12 @@
 ## 二外教学资源建设与利用示例
 
 ### 文本数据：教材
-
+<br>
 传统课本 vs. 数字化课本
 
-![](https://lctu.github.io/edtech/demos/sfl/传统课本.jpeg){:height="500"}
+![](https://lctu.github.io/edtech/demos/sfl/传统课本.jpeg){:width="500"}
 
-![](https://lctu.github.io/edtech/demos/sfl/数字化课本.png){:height="500"}
+![](https://lctu.github.io/edtech/demos/sfl/数字化课本.png){:width="500"}
 
 ### 视频数据：学生演示
 
